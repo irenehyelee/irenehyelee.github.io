@@ -1,0 +1,84 @@
+{
+  "main": {
+    "name": "Irene Lee",
+    "occupation": "Marketing Analyst",
+    "description": "Hehe XD",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "If you wish to contact me, please leave your message below, and I will get back to you as soon as possible.",
+    "email": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Irvine",
+      "state": "California",
+      "zip": "92653"
+    },
+    "website": "https://www.irenehyelee.github.io",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1SZdP-l8bY75p117QlgBy3JcmX7bDy-7Z",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/seanarwa",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sean-chang-33a053137/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/seanarwa",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of California, Irvine",
+        "degree": "Business Administration B.A.",
+        "graduated": "2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Ambient Studios",
+        "title": "Marketing Associate",
+        "years": "May 2020 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Sitting down and looking pretty or tired or a lil aggresive",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Personal Website",
+        "category": "Yup, I coded my website",
+        "image": "kinjo-chatto.jpg",
+        "url": "https://github.com/irenehyelee/irenehyelee.github.io"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
